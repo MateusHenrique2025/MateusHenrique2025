@@ -12,7 +12,6 @@
 - 📫 Fale comigo pelos links abaixo
 
 ### 📊 Estatísticas
-### 📊 Estatísticas
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MateusHenrique2025&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenrique2025&layout=compact&theme=tokyonight&hide_border=true" />
@@ -24,5 +23,5 @@
   <a href="https://mateushenrique2025.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="mailto:mateus.henrique020804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/MateusHenrique2025"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
   <a href="https://api.whatsapp.com/send?phone=5595984393908&text=Ol%C3%A1%20Bom%20dia%2C%20Boa%20tarde%2C%20Boa%20noite%20%F0%9F%98%80"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
