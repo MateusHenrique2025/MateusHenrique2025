@@ -1,8 +1,8 @@
-<h1 align="center">Oi, eu sou o Mateus 👋</h1>
+<h1 align="center">Opa, eu sou o Mateus Henrique 🫡</h1>
 <p align="center">Estudante de Ciência da Computação (UFRR) · Desenvolvedor Full Stack em formação</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,react,html,css,git,github,vscode,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,react,html,css,git,github,vscode,windows" />
 </p>
 
 ### 🚀 Sobre mim
@@ -11,6 +11,7 @@
 - 🔧 Interesse em arquitetura de computadores, redes e web
 - 📫 Fale comigo pelos links abaixo
 
+### 📊 Estatísticas
 ### 📊 Estatísticas
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MateusHenrique2025&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -24,3 +25,4 @@
   <a href="mailto:mateus.henrique020804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/MateusHenrique2025"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+  <a href="https://api.whatsapp.com/send?phone=5595984393908&text=Ol%C3%A1%20Bom%20dia%2C%20Boa%20tarde%2C%20Boa%20noite%20%F0%9F%98%80"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
