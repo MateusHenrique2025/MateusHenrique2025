@@ -2,7 +2,7 @@
   <h1>Olá, eu sou o Mateus Henrique 🫡</h1>
   <p><strong>Desenvolvedor Full Stack em Formação | Ciência da Computação (UFRR)</strong></p>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Entusiasta+em+Machine+Learning; Desencolvimento+Web+de+Redes+e+Arquitetura" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack;Entusiasta+em+Machine+Learning;Interesses+em+Web,+Redes+e+Arquitetura" alt="Typing SVG" />
 
 ---
 
