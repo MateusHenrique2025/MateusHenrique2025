@@ -43,16 +43,16 @@ Sou estudante de Ciência da Computação na **UFRR** e entusiasta de tecnologia
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MateusHenrique2025&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHenrique2025&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=MateusHenrique2025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MateusHenrique2025&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
 </div>
 
 ---
 
-### 🤝 Vamos nos conectar?
+### FORMAS DE CONTATO
 
 Estou sempre aberto a trocar ideias, colaborar em projetos open-source ou conversar sobre tecnologia. Sinta-se à vontade para entrar em contato!
 
