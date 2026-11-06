@@ -13,8 +13,8 @@ Sou estudante de Ciência da Computação na **UFRR** e entusiasta de tecnologia
 
 - 🎓 Graduando em Ciência da Computação na **UFRR**.
 - 🚀 Focado em Desenvolvimento Full Stack pelo **ITEAM**.
-- 🔍 Interesses: Arquitetura de Computadores, Redes de Computadores e Desenvolvimento Web.
-- 💡 Sempre buscando resolver problemas complexos com código limpo e boas práticas.
+- 🔍 Interesses: Arquitetura de Computadores, Redes de Computadores, Desenvolvimento Web e IA
+- 💡 Resolvendo problemas e Buscando soluções.
 
 ---
 
@@ -25,7 +25,7 @@ Sou estudante de Ciência da Computação na **UFRR** e entusiasta de tecnologia
   <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,html,css" /><br><br>
   
   <p><strong>Ferramentas & Ambientes</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,claude" />
 </div>
 
 ---
@@ -54,7 +54,7 @@ Sou estudante de Ciência da Computação na **UFRR** e entusiasta de tecnologia
 
 ### FORMAS DE CONTATO
 
-Estou sempre aberto a trocar ideias, colaborar em projetos open-source ou conversar sobre tecnologia. Sinta-se à vontade para entrar em contato!
+Estou sempre aberto a trocar ideias. Sinta-se à vontade para entrar em contato!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-henrique-449a0a296/" target="_blank">
